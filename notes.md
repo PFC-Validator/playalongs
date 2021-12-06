@@ -1,6 +1,7 @@
 # development keys
 do not use any of these phrases in the production environment
-##admin
+
+## admin
 
 * address secret1yl2wklurhfxe5036y8ukszvl0a2adru0lend2v
 * pubkey {"@type":"/cosmos.crypto.secp256k1.PubKey","key":"Alh6b8l4QSHSWuG1tt9dprlopTQemexc9b1x50UTyMuw"}
