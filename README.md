@@ -3,4 +3,4 @@ Follow our progress on [O'Connor's Curiosities](https://www.loop.markets/user/16
 
 see [notes](./notes.md) for install instructions.
 
-see https://youtu.be/lOBsQIHUtio
+see https://cutt.ly/playalongspitch
