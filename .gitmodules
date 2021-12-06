@@ -1,0 +1,12 @@
+[submodule "SecretSimpleVote"]
+	path = SecretSimpleVote
+	url = https://github.com/PFC-Validator/SecretSimpleVote.git
+[submodule "SecretStablePools"]
+	path = SecretStablePools
+	url = https://github.com/PFC-Validator/SecretStablePools.git
+[submodule "snip20-reference-impl"]
+	path = snip20-reference-impl
+	url = https://github.com/PFC-Validator/snip20-reference-impl.git
+[submodule "snip721-reference-impl"]
+	path = snip721-reference-impl
+	url = https://github.com/PFC-Validator/snip721-reference-impl.git

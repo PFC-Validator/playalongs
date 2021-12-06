@@ -1,0 +1,22 @@
+/target
+/.idea
+/*/target
+*.wasm
+*.wasm.gz
+# macOS
+.DS_Store
+
+# Text file backups
+**/*.rs.bk
+
+
+# IDEs
+.vscode/
+
+*.iml
+**/*.rs.bk
+
+# Auto-gen
+.cargo-ok
+
+build/
